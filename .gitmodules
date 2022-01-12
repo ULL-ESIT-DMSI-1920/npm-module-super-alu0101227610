@@ -1,3 +1,7 @@
 [submodule "npm-module-src-alu0101227610"]
 	path = npm-module-src-alu0101227610
 	url = git@github.com:ULL-ESIT-DMSI-1920/npm-module-src-alu0101227610.git
+
+[submodule "npm-module-test-alu0101227610"]
+	path = npm-module-test-alu0101227610
+	url = git@github.com:ULL-ESIT-DMSI-1920/npm-module-test-alu0101227610.git
